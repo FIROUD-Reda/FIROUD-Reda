@@ -19,7 +19,7 @@
 </a>
 </div>
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="FIROUD-Reda" /></p>
 
 <br>
 <br>

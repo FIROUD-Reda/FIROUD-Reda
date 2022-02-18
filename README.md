@@ -18,8 +18,17 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
-## 🔥 Streak Stats
+
+  
+### 🔥 Streak Stats !
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="FIROUD-Reda" /></p>
+
+## :trophy: Git profile Trophies
+<br>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FIROUD-Reda&layout=compact&theme=algolia" alt="FIROUD-Reda" /></a> </p>
+
 
 <br>
 <br>
@@ -43,7 +52,7 @@
     Frameworks
   </summary>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </details>
@@ -71,7 +80,21 @@
   </summary> -->
 <hr/>
 
-### 💻 I’m currently learning React, Flutter, Flask, AWS ...
+### 💻 I’m currently learning React, Flutter, AWS ...
+<details open>
+  <summary> 
+    Languages 
+  </summary>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</details>
 
-### 🔭 I’m currently working on a Flutter and flask project. 
+
+<!-- ### 💻 And planning  learning React, Flutter, Flask, AWS ...
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
+
+<!-- ### 🔭 I’m currently working on some projects using the .  -->
+
 <!-- </details> -->

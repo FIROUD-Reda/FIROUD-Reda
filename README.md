@@ -83,7 +83,7 @@
 ### 💻 I’m currently learning React, Flutter, AWS ...
 <details open>
   <summary> 
-    Languages 
+    Learning... 
   </summary>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>

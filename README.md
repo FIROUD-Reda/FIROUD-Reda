@@ -80,14 +80,14 @@
   </summary> -->
 <hr/>
 
-### 💻 I’m currently learning React, Flutter, AWS ...
+### 💻 I’m currently learning React, Flutter, Django ...
 <details open>
   <summary> 
     Learning... 
   </summary>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </details>
 
 

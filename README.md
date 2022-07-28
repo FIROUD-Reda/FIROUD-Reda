@@ -66,7 +66,10 @@
     Databases
   </summary>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </details>
 
 <details open>
@@ -74,6 +77,7 @@
     Mobile
   </summary>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </details>
 
 
@@ -83,12 +87,12 @@
   </summary> -->
 <hr/>
 
-### 💻 I’m currently learning React, Flutter, Django ...
+<!--### 💻 I’m currently learning React, Flutter, Django ...
 <details open>
   <summary> 
     Learning... 
   </summary>
-</details>
+</details>-->
 
 
 <!-- ### 💻 And planning  learning React, Flutter, Flask, AWS ...

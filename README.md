@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FIROUD-Reda&color=&color=yellow)
   
-  I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
+  I am a software engineer who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIROUD-Reda&show_icons=true&theme=dracula)
 

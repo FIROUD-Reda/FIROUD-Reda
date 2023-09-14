@@ -6,7 +6,7 @@
   
   I am a software engineer who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIROUD-Reda&show_icons=true&theme=dracula)
+<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIROUD-Reda&show_icons=true&theme=dracula) -->
 
   
 ## 📫 How to reach me: 
@@ -22,9 +22,9 @@
 <!---### 💳 My Dev Card !
 <p align="center"><a href="https://app.daily.dev/akihiki"><img src="https://api.daily.dev/devcards/eecfb0711ef84d4c9a139369d589024a.png?r=czm" width="400" alt="Akihiki's Dev Card"/></a></p> -->
 
-<!---  ### 🔥 Streak Stats !
+### 🔥 Streak Stats !
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="FIROUD-Reda" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="FIROUD-Reda" /></p> 
 
 ## :trophy: Git profile Trophies
 <br>

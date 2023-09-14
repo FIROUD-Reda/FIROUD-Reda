@@ -19,12 +19,12 @@
 </a>
 </div>
 
-### 💳 My Dev Card !
-<p align="center"><a href="https://app.daily.dev/akihiki"><img src="https://api.daily.dev/devcards/eecfb0711ef84d4c9a139369d589024a.png?r=czm" width="400" alt="Akihiki's Dev Card"/></a></p>
+<!---### 💳 My Dev Card !
+<p align="center"><a href="https://app.daily.dev/akihiki"><img src="https://api.daily.dev/devcards/eecfb0711ef84d4c9a139369d589024a.png?r=czm" width="400" alt="Akihiki's Dev Card"/></a></p> -->
 
-### 🔥 Streak Stats !
+<!---  ### 🔥 Streak Stats !
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="FIROUD-Reda" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="FIROUD-Reda" /></p> -->
 
 ## :trophy: Git profile Trophies
 <br>

@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  ## Hi there 👋, I'm Reda ✨
+  ## Hi there 👋, I'm Reda FIROUD✨
 
 ![](https://komarev.com/ghpvc/?username=FIROUD-Reda&color=&color=yellow)
   

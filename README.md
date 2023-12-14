@@ -1,12 +1,28 @@
+ <div align=center>
+        <p align=center>
+            <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
+        </p>
+    <p align=center>
+       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008F11&center=true&vCenter=true&random=false&width=435&lines=Hello+World++!;I'm+FIROUD+Reda+a+Software+Engineer;On+a+journey+to+turn+ideas+;into+reality+through+code.+" alt="Headline" />
+      </p>
+    </div>
+    <br/>
+    <div align=center>
+        <p>
+            <strong>
+                I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
+                <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+            </strong>
+        </p>
+    </div>
+    
 <div align="center"> 
 
-  ## Hi there 👋, I'm Reda FIROUD✨
 
 ![](https://komarev.com/ghpvc/?username=FIROUD-Reda&color=&color=yellow)
   
-  I am a software engineer who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
-
-<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIROUD-Reda&show_icons=true&theme=dracula) -->
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIROUD-Reda&show_icons=true&theme=dracula) 
 
   
 ## 📫 How to reach me: 

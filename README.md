@@ -10,7 +10,7 @@
     <div align=center>
         <p>
             <strong>
-                I am a software engineer who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
+                I am a software engineer who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below.. 
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
         </p>

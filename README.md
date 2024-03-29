@@ -19,7 +19,7 @@
 <div align="center"> 
 
 
-![](https://komarev.com/ghpvc/?username=Akihiki&color=&color=yellow)
+
   
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akihiki&show_icons=true&theme=dracula) 

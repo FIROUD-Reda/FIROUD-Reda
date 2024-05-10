@@ -22,7 +22,7 @@
 
   
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akihiki&show_icons=true&theme=dracula) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIROUD-Reda&show_icons=true&theme=dracula) 
 
   
 ## 📫 How to reach me: 
@@ -40,12 +40,12 @@
 
 ### 🔥 Streak Stats !
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akihiki&theme=algolia" alt="FIROUD-Reda" /></p> 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FIROUD-Reda&theme=algolia" alt="FIROUD-Reda" /></p> 
 
 ## :trophy: Git profile Trophies
 <br>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akihiki&layout=compact&theme=algolia" alt="FIROUD-Reda" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FIROUD-Reda&layout=compact&theme=algolia" alt="FIROUD-Reda" /></a> </p>
 
 
 <br>
